@@ -5,11 +5,6 @@ h1 {
     font-weight: bold;
 }
 
-h2 {
-    text-align: center;
-    color: #e1d9d6;
-}
-
 p {
     color: #e1d9d6;
 }
@@ -92,6 +87,7 @@ p {
 }
 
 .parallax-container4 {
+    text-decoration: #e1d9d6;
     width: 100%;
     min-height: 575px;
     background-color: #5D0F09;
@@ -127,4 +123,5 @@ p {
     background-color: #3E3A41;
     width: 100%;
     min-height: 300px;
+    text-align: center;
 }
