@@ -122,3 +122,9 @@ p {
     border-radius: 50%;
     object-fit: cover;
 }
+
+.parallax-container5 {
+    background-color: #3E3A41;
+    width: 100%;
+    min-height: 300px;
+}
