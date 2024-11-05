@@ -1,4 +1,4 @@
-id = "subcribe"
+id = $(`#subscribe`)
 
 var submitButton = "Subscribe";
 console.log(subcribeButton === "Subscribe");
